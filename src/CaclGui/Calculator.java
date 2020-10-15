@@ -13,5 +13,4 @@ public class Calculator {
     private JButton pi;
     private JButton Eqauls;
     private JButton Clear;
-    private JTextArea textArea1;
 }
